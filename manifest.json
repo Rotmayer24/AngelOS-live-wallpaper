@@ -1,0 +1,14 @@
+{
+  "id": "live-wallpaper",
+  "name": "Live Wallpaper",
+  "version": "1.5.0",
+  "author": "Rotmayer24",
+  "description": "Animated wallpaper (MP4, WebM, GIF, WebP) with automatic discovery in ~/Pictures: a desktop card or a fullscreen layer with desktop widgets kept on top; pause, speed, loop, scale; sound is off by default.",
+  "icon": "image",
+  "enabledByDefault": false,
+  "barWidget": "BarWidget.qml",
+  "desktopTitle": "live-wallpaper",
+  "desktopWidget": "DesktopWidget.qml",
+  "settings": "Settings.qml",
+  "main": "Main.qml"
+}
